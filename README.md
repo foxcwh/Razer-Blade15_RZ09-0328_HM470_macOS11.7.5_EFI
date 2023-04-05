@@ -1,5 +1,14 @@
 # Razer-Blade15_RZ09-0328_HM470_macOS11.7.5_EFI
 Hackintosh
+
+本人没有对任何电脑进行安装macOS操作系统的操作，本人不对此文件造成的后果负责！！！
+本人没有对任何电脑进行安装macOS操作系统的操作，本人不对此文件造成的后果负责！！！
+本人没有对任何电脑进行安装macOS操作系统的操作，本人不对此文件造成的后果负责！！！
+I did not install the macOS operating system on any computer, I am not responsible for the consequences of this file!!
+I did not install the macOS operating system on any computer, I am not responsible for the consequences of this file!!
+I did not install the macOS operating system on any computer, I am not responsible for the consequences of this file!!
+
+
 雷蛇灵刃15 2020笔记本EFI配置文件
 
 无线网卡已由Intel AX201更换为DW1820A（注意这款机器需要屏蔽针脚）
