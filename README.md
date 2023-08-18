@@ -43,8 +43,8 @@ Airdrop Handoff Sidebar
 HDMI输出
 GTX1660TI
 雷电三
-睡眠不正常 只能合盖再亮屏
-hibernatemode = 0 睡眠会耗尽电量
+休眠不正常 只能合盖再亮屏
+hibernatemode = 0 休眠会耗尽电量
 Disfunction：
 HDMI output
 GTX1660TI
